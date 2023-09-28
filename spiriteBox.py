@@ -18,9 +18,3 @@ def generateAudio(sentance):
     engine.runAndWait()
 
 generateAudio(buildSentance('1000WordList.txt'))
-
-#counter = 0
-
-#while counter > config.limit:
-#    generateAudio(buildSentance(config.wordList), config.fileName)
-#    counter += 1
