@@ -5,6 +5,4 @@ you also need vlc media player or some method to play .mp3 files
 
 this is 100% legit its thr most cuttimg edge code that lets you commune wotht the dead
 
-they will spit put words and semtancea
-
-check the config filw to change runs times and file namws if you want to persit any .mp3
+they will spit put words and sentances
