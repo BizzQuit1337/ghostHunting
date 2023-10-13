@@ -15,3 +15,8 @@ It is a well known fact that spirites can effect and communicate using Electro M
 - Tarot mode, allows the spirites to manipulate the tarot cards. the deck is shuffled on each new game and randomly played out on to the field.
 
 ## Installation
+- Python version 3.11+
+- need to install pygame and pyttsx3
+- pip install pygame
+- pip install pyttsx3
+- pyttsx3 requires some methiod to play the voice, any windows device will have the default voice but on linux systems you will need to search for a package specific text to speach program, try espeak.
