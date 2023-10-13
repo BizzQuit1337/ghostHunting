@@ -12,5 +12,6 @@ It is a well known fact that spirites can effect and communicate using Electro M
 - The first mode is called Standard, this mode reads a word list you can select on the home menue. It generates an entropic layer of randomness, from this randomness words are chosen from the wordlist, in a random order and random sentance length.
 - The reverse Mode, function the same as the standard mode excpet it reverses the words. This adds an additional layer of entropy, entieties will need more energy to genereate accurate sentances
 - Binary mode, Binary mode uses even more entropy than the reverse mode, but instead of reversing the words simply allows the spirite to channel all its energy into a single yes or no answer. While this uses the most entropy by far it is the easiest for the spirites to commune with as they only need to sway in a single directon.
+- Tarot mode, allows the spirites to manipulate the tarot cards. the deck is shuffled on each new game and randomly played out on to the field.
 
 ## Installation
